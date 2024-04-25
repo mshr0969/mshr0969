@@ -8,4 +8,4 @@ I am a student at Kobe University and work as a backend engineer!
 
 ### Technology Stack Being Learned
 
-<img src="https://skillicons.dev/icons?i=go,py,js,cpp,aws,fastapi,docker,terraform,dynamodb,mysql,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,py,js,ts,react,nextjs,cpp,aws,fastapi,docker,terraform,dynamodb,mysql,vscode,github" /> <br /><br />
