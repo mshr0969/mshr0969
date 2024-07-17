@@ -11,8 +11,7 @@
 
 ### I Use Regularly
 
-<img src="https://skillicons.dev/icons?i=go,py,cpp,aws,docker,terraform,dynamodb,mysql,idea,vscode,github,gitlab" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,aws,docker,terraform,mysql" /> <br /><br />
 
 ### Other Technologies I Have Experience With
-Including just I have used once or twice...
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin,react,nextjs,nodejs,express,materialui,cmake,fastapi,flask,selenium,postgres,sqlite,ktor,gradle,grafana,linux,latex,notion,postman,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,materialui,fastapi,postgres,sqlite,linux,githubactions" /> <br /><br />
