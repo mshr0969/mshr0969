@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about particle physics and data analysis.
 - 🧑‍💻 I work as a software engineer at Nagase Brothers Inc.
 
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshr0969)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshr0969)
 
 ### I Use Regularly
 
