@@ -13,4 +13,4 @@
 <img src="https://skillicons.dev/icons?i=go,aws,docker,terraform,mysql" /> <br /><br />
 
 ### Other Technologies I Have Experience With
-<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,ruby,react,nextjs,materialui,fastapi,rails,postgres,sqlite,linux,githubactions" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,ruby,react,nextjs,materialui,fastapi,rails,postgres,sqlite,linux,graphql,githubactions" /> <br /><br />
