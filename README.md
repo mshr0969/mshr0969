@@ -5,7 +5,7 @@
 - 👨‍🎓 I'm a master's student at Kobe University.
 - 🌱 I’m currently learning about particle physics and data analysis.
 - 🧑‍💻 I work as a software engineer at Nagase Brothers Inc.
-- 📫 How to reach me: [LinkedIn](hhttps://www.linkedin.com/in/masahiro-sasada-252154331/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/masahiro-sasada-252154331/)
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshr0969)
 
