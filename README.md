@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 👨‍🎓 I'm a master's student at Kobe University.
-- 🌱 I’m currently learning about particle physics and data analysis.
+- 🌱 I'm conducting research on applying machine learning to particle physics.
 - 🧑‍💻 I work as a software engineer at Nagase Brothers Inc.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/masahiro-sasada-252154331/)
 
@@ -11,4 +11,4 @@
 
 ### TECH STACK
 
-<img src="https://skillicons.dev/icons?i=go,py,ts,cpp,aws,docker,terraform,mysql,postgres,graphql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,py,ts,cpp,aws,docker,terraform,mysql,postgres,graphql,pytorch" /> <br /><br />
