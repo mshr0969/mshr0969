@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I'm a master's student at Kobe University.
 - 🌱 I'm conducting research on applying machine learning to particle physics.
-- 🧑‍💻 I work as a software engineer at Nagase Brothers Inc.
+- 🧑‍💻 I work as a software engineer at Nagase Brothers Inc and MonoLu Inc.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/masahiro-sasada-252154331/)
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshr0969)
